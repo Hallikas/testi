@@ -1,0 +1,8 @@
+git clone - Kloonaa repositoryn
+git push - lähettää muutokset palvelimelle
+git pull - hakee muutokset palvelimelta
+git status - Kertoo tietoa local hakemiston statuksesta
+git log - näyttää historiatietoa muutoksista
+
+git add - Lisätään tiedostoja versiohallintaan
+git rm - Poistetaan tiedostoja versiohallinnasta
